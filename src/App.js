@@ -1,9 +1,11 @@
-import "./App.css";
+import Header from "./Header";
 
 function App() {
   return (
     <div className="App">
-      <main className="text-orange-800 ">Hello</main>
+      <main className="text-orange-800 ">
+        <Header />
+      </main>
     </div>
   );
 }
