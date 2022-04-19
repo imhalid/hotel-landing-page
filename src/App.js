@@ -5,6 +5,7 @@ import MidOne from "./Components/MidOne";
 import MidTwo from "./Components/MidTwo";
 import MidThree from "./Components/MidThree";
 import Subscribe from "./Components/Subscribe";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
             <MidTwo />
             <MidThree />
             <Subscribe />
+            <Footer />
           </div>
         </div>
       </div>

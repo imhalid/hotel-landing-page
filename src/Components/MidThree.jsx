@@ -6,9 +6,8 @@ function MidThree() {
       <div className="flex md:flex-row-reverse flex-col-reverse">
         <img
           className="imgBorder max-w-3xl ml-10 -mr-10 object-cover"
-          src="https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8"
-          alt=""
-          srcset=""
+          src="https://images.unsplash.com/photo-1633040243823-6bf8d4edb0ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+          alt="ImageTop"
         />
         <div className=" mt-36 pl-4 ">
           <h1 className="text-4xl font-bold leading-[3rem]  max-w-[350px]">

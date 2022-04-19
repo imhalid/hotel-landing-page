@@ -6,9 +6,8 @@ function MidOne() {
       <div className="flex md:flex-row flex-col-reverse">
         <img
           className="imgBorder max-w-3xl mr-10 -ml-10 object-cover"
-          src="https://images.unsplash.com/photo-1567491634123-460945ea86dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8"
-          alt=""
-          srcset=""
+          src="https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+          alt="ImageTop"
         />
         <div className=" mt-36 pl-4 ">
           <h1 className="text-4xl font-bold leading-[3rem]  max-w-[300px]">
