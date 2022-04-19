@@ -3,6 +3,8 @@ import TopImage from "./Components/TopImage";
 import TopOne from "./Components/TopOne";
 import MidOne from "./Components/MidOne";
 import MidTwo from "./Components/MidTwo";
+import MidThree from "./Components/MidThree";
+import Subscribe from "./Components/Subscribe";
 
 function App() {
   return (
@@ -13,10 +15,10 @@ function App() {
             <Header />
             <TopOne />
             <TopImage />
-          </div>
-          <div>
             <MidOne />
             <MidTwo />
+            <MidThree />
+            <Subscribe />
           </div>
         </div>
       </div>

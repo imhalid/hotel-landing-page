@@ -4,7 +4,7 @@
 
 @layer components {
   .headerLink {
-    @apply text-white/50 hover:text-white  transition-all;
+    @apply text-white/50 hover:text-white  transition-all  cursor-pointer;
   }
 
   .imgBorder {

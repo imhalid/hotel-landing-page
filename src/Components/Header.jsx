@@ -15,7 +15,7 @@ function Header() {
         </p>
       </div>
 
-      <ul className="md:flex space-x-[4.5rem] hidden cursor-pointer  ">
+      <ul className="md:flex space-x-[4.5rem] hidden ">
         <li className="headerLink">Rooms</li>
         <li className="headerLink">About</li>
         <li className="headerLink">Teams</li>

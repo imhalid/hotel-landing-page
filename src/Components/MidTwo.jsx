@@ -24,10 +24,10 @@ function MidTwo() {
             className="bg-[#11768C] w-[5.75rem] p-4 rounded-full"
             color="white"
           />
-          <p className="font-bold text-2xl mb-4 mt-14">Great View</p>
+          <p className="font-bold text-2xl mb-4 mt-14">Trendy Rooms</p>
           <p className="leading-7 text-center">
-            The locations is strategist, we have a great view and Lorem ipsum
-            dolor sit amet, consectetur{" "}
+            Come up and maintain trendy rooms design, always modern and
+            following the trends.
           </p>
         </div>
         <div className="flex p-10 justify-center items-center flex-col rounded-md w-[347px] h-[363px] bg-white">
@@ -35,10 +35,10 @@ function MidTwo() {
             className="bg-[#11768C] w-[5.75rem] p-4 rounded-full"
             color="white"
           />
-          <p className="font-bold text-2xl mb-4 mt-14">Great View</p>
+          <p className="font-bold text-2xl mb-4 mt-14">Award Winning</p>
           <p className="leading-7 text-center">
-            The locations is strategist, we have a great view and Lorem ipsum
-            dolor sit amet, consectetur{" "}
+            We are winning some of hotel awards around the world, Lorem ipsum
+            dolor sit amet, consectetur
           </p>
         </div>
       </div>
