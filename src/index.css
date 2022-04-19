@@ -6,4 +6,8 @@
   .headerLink {
     @apply text-white/50 hover:text-white  transition-all;
   }
+
+  .imgBorder {
+    @apply border-[#40a2d8] border-solid  md:border-[1rem]  border-[0.5rem];
+  }
 }

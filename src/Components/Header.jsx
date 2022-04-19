@@ -15,13 +15,13 @@ function Header() {
         </p>
       </div>
 
-      <ul className="md:flex space-x-[4.5rem] hidden  ">
+      <ul className="md:flex space-x-[4.5rem] hidden cursor-pointer  ">
         <li className="headerLink">Rooms</li>
         <li className="headerLink">About</li>
         <li className="headerLink">Teams</li>
         <li className="headerLink">Contact Us</li>
       </ul>
-      <CgMenuRight className="flex text-white text-3xl md:hidden " />
+      <CgMenuRight className="flex text-white text-3xl  cursor-pointer md:hidden " />
     </div>
   );
 }

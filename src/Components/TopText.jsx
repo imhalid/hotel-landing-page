@@ -2,7 +2,7 @@ import React from "react";
 
 function TopText() {
   return (
-    <div className="text-white md:pl-[60px] text-center md:text-left leading-8 space-y-5">
+    <div className="text-white w-[90%]  md:pl-[60px] text-center md:text-left leading-8 space-y-5">
       <h1 className="text-5xl leading-[3.5rem] font-bold">
         Staycation With <br />
         Your Family

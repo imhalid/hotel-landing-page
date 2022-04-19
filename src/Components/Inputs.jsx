@@ -1,11 +1,11 @@
 function Inputs() {
   return (
-    <div className="md:pr-[60px] items-center flex justify-center ">
+    <div className="md:pr-[60px] md:pb-10 items-center flex justify-center ">
       <div
-        className="w-[400px] h-[160px] bg-white rounded-[3rem] 
+        className="w-[370px] md:w-[400px] h-[160px] bg-white rounded-[3rem] 
       flex justify-between flex-col items-center "
       >
-        <div className="flex justify-evenly items-center pt-8 pl-5 pr-5">
+        <div className="flex justify-evenly items-center pt-8 md:pl-5 md:pr-5">
           <input
             className="text-center h-7 bg-transparent  focus:outline-none "
             type="text"
