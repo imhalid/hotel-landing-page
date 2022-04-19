@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .headerLink {
+    @apply text-white/50 hover:text-white  transition-all;
+  }
+}
