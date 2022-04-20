@@ -6,7 +6,7 @@ This is the first time I've done `figma to code` without looking at any youtube 
 
 - How to do responsive design with Tailwind (mobile and desktop)
 - Figma to Code
-- customized scrollbar with [tailwind-scrollbar](https://www.npmjs.com/package/tailwind-scrollbar)
+- Customized scrollbar with [tailwind-scrollbar](https://www.npmjs.com/package/tailwind-scrollbar)
 
 
 
